@@ -965,7 +965,7 @@ fn main() {
     let mut out = vec![];
 
     // TODO find out why j4-1 (19) springs don't work, star block
-   output_level(13, &mut out, true);
+   output_level(2, &mut out, true);
 
     // I don't know if this is a good idea or not,
     //  but put some randomly ordered levels in to
